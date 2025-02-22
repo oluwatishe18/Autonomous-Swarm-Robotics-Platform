@@ -9,3 +9,5 @@ L
 tests/swarm-identity.test.ts,6/1/61ddad03d3b8cb76b5ece05245bbdb8d5ed9cf63
 O
 contracts/resource-sharing.clar,5/a/5a7a0ec5f156996f03c2895a571d5c7dd5ca81ee
+N
+tests/resource-sharing.test.ts,f/9/f922bdc75336ea1f6ded49fa5088785f8eea4309
