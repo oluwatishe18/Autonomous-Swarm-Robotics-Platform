@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.resource-sharing]
+path = 'contracts/resource-sharing.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.swarm-identity]
 path = 'contracts/swarm-identity.clar'
 clarity_version = 2
